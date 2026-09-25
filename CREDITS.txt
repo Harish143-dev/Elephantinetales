@@ -1,0 +1,30 @@
+STOCK PHOTOGRAPHY CREDITS
+
+The photographs inside the cards are free stock images used under the Pexels
+Licence (pexels.com/license): free for commercial use, no attribution required.
+They are placeholders standing in for the estate's own photographs and should be
+replaced before publication.
+
+images/stock/
+  camp.jpg       Cliford Mervil            pexels.com/photo/2398220
+  cycling.jpg    Rhys Abel                 pexels.com/photo/20415798
+  farm.jpg       Quang Nguyen Vinh         pexels.com/photo/6876424
+  forest.jpg     Trace Hudson              pexels.com/photo/2529973
+  hills-mist.jpg Zetong Li                 pexels.com/photo/16837430
+  horse.jpg      Josh Hild                 pexels.com/photo/17821175
+  lake.jpg       Bri Schneiter             pexels.com/photo/346529
+  meadow.jpg     matyuk7 Kirn              pexels.com/photo/10660657
+  road.jpg       Alex Moliski              pexels.com/photo/26628629
+  stars.jpg      Hristo Fidanov            pexels.com/photo/1252869
+  tall-forest.jpg eberhard grossgasteiger  pexels.com/photo/1366921
+  yoga.jpg       RAY LEI                   pexels.com/photo/13849088
+
+images/site/
+  Photographs and artist's impressions taken from the estate's current website.
+
+images/gen/
+  Aerial views produced for this concept from satellite imagery of the estate.
+  Illustrative only; not licensed for publication. See READ ME FIRST.
+
+images/cloud-*.webp
+  Generated for this project.

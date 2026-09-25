@@ -1,0 +1,79 @@
+ELEPHANTINE TALES — ESTATE EXPLORER
+A website design concept. Prepared September 2026.
+
+
+HOW TO OPEN IT
+--------------
+Double-click  index.html
+It opens in your web browser. Nothing to install.
+
+Keep the whole folder together. The pictures live in the folders beside
+index.html, so moving index.html on its own will leave you with a blank page.
+
+You need an internet connection the first time you open it. The typefaces
+and the animation library come from the web; everything else is in this folder.
+
+Best viewed full screen in Chrome, Edge or Safari. It works on a phone too.
+
+
+WHAT YOU CAN DO
+---------------
+Drag the map to move around it. Scroll or pinch to zoom in and out.
+
+Click any glowing dot to open its card on the right. The card has a photograph,
+a description, links to other places on the estate, and on the five main areas
+a brown EXPLORE button that takes you into that part of the estate close up.
+
+TODAY / PLANNED, top right. Switches between the land as it is now and the
+estate as planned, with the villas, the pool and the lawns in place.
+
+THE ROUND BUTTON, bottom right. Cycles Summer, Monsoon, Winter and Dusk.
+On the whole estate and the clubhouse, Dusk brings up the evening view with
+the lights on.
+
+THE BAR ALONG THE BOTTOM. The house icon returns you to the whole estate.
+The arrow opens the list of all six views.
+
+PLOTS. In the three plot areas each numbered dot is a plot. Its card shows the
+size, the area, which way it faces and an indicative price, with tabs for
+photographs, the plot drawn to scale, the details and the building guidelines.
+White dots are available, beige reserved, grey sold.
+
+ENQUIRE, top right, opens the enquiry form.
+
+
+STAND HERE, THE 360 VIEW
+------------------------
+Some cards have a STAND HERE button, or STAND ON THIS PLOT. It opens a full-screen
+view from ground level. Drag to look around you. Scroll to zoom.
+
+Where there is a chain of spots, arrows at the bottom step you forward and back,
+the way Google Street View does.
+
+These 360 views are free stock photographs of woodland, meadow and hillside. They
+are there to show how the feature works. They are NOT the estate. Every one of them
+has to be replaced with a real 360 photograph taken on the land.
+
+
+PLEASE NOTE
+-----------
+This is a design concept, not a live website.
+
+The 360 views are stock photographs, not the estate.
+
+The enquiry form does not send anything. Nothing you type is stored or
+transmitted anywhere.
+
+The aerial views were produced for this concept from satellite imagery of the
+estate. They show the real roads, ponds, clubhouse, farm and village in their
+real positions, but they are illustrations, not survey drawings.
+
+Plot positions, plot numbers, availability, prices and the descriptions of
+amenities are invented to demonstrate how the site would work. None of it has
+been confirmed with the estate and none of it should be quoted to a buyer.
+
+Prices shown are extrapolated from the published starting price of
+Rs 94 lakh for 21 cents and are marked indicative.
+
+Before this goes live the aerial views need to be replaced with a commissioned
+drone survey or a licensed image, and every fact needs to come from the estate.
